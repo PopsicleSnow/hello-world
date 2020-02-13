@@ -1,4 +1,2 @@
 # hello-world
-test
-
-yes
+hello world
